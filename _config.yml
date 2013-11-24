@@ -14,7 +14,7 @@ title:            SitFit
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          http://www.stair-rover.com/
+website:          http://sitfit.github.io/
 #
 # 2. URL of this page
 url:              http://sitfit.github.io/
@@ -26,7 +26,7 @@ project:
   name:           SitFit: Sit Smart and Extend Your Life
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://kck.st/12bbLkw
+  url:            http://dexterindustries.com
   #
   # URL of a cover photo of your project
   cover_image:    http://dexterindustries.com/GrovePi/wp-content/uploads/2013/10/IMAG0735.jpg
@@ -35,7 +35,7 @@ project:
   description:    SitFit is a healthy way to remember to stand up!
 #
 # 4. Your Twitter handle
-twitter_handle:   StairRover
+twitter_handle:   SitFit
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 
